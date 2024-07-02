@@ -19,6 +19,8 @@ Dedicated to enhancing user experiences, I leverage the capabilities of React.js
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushfiq-alam-sami-4013241b9/)
@@ -68,7 +70,3 @@ Dedicated to enhancing user experiences, I leverage the capabilities of React.js
 ## ℹ️ Additional Information
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mushfiqalam7)
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/NazmulNHB)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazmulbatchu/) -->
-
-![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I'm%20passionate%20about%20World%20Literature%20%26%20Mythology-000000?style=for-the-badge)
