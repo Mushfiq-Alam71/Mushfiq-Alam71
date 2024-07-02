@@ -1,7 +1,7 @@
 # Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Greetings from Mushfiq Alam
 
 <a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
-<img src="" />
+<img src="https://github.com/Mushfiq-Alam71/Mushfiq-Alam71/blob/main/banner.png" />
 </a>
 
 ## 🧑‍💻 About Me
