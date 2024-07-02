@@ -1,16 +1,16 @@
-# Hi, 👋 Greetings from Nazmul
+# Hi, 👋 Greetings from Mushfiq Alam
 
 <a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
-<img src="https://raw.githubusercontent.com/nazmul-nhb/nazmul-nhb/main/banner.png" />
+<img src="" />
 </a>
 
 ## 🧑‍💻 About Me
 
 ### Front-End React Developer with MERN-Stack Knowledge
 
-I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Specializing in Front-End React Development, I bring creativity and precision to every project I undertake.
+I’m Mushfiq Alam Sami, a passionate tech enthusiast with a strong focus on web development. Specializing in Front-End React Development, I bring a blend of creativity and precision to each project I work on.
 
-I'm committed to enhancing user experiences through innovative web applications. By harnessing the power of React.js, I ensure that every web application I build is dynamic, engaging, and tailored to meet user expectations. My objective is to combine design and functionality to create engaging web experiences that deliver tangible value.
+Dedicated to enhancing user experiences, I leverage the capabilities of React.js to develop dynamic and engaging web applications. My goal is to create web experiences that not only meet user expectations but exceed them. By combining design and functionality, I strive to deliver web applications that are both visually appealing and highly functional, providing real value to users.
 
 ## :chart_with_upwards_trend: Current Stats
 
