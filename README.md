@@ -16,10 +16,9 @@ Dedicated to enhancing user experiences, I leverage the capabilities of React.js
 
 <div align="center">
     <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mushfiq-Alam71&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## 🌐 Connect with Me
 
