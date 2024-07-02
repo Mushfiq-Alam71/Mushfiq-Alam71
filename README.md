@@ -58,13 +58,6 @@ Dedicated to enhancing user experiences, I leverage the capabilities of React.js
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Additional Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent" alt="Top Languages">
-</div>
 
 ## ℹ️ Additional Information
 
