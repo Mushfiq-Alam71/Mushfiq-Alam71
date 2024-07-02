@@ -67,7 +67,6 @@ Dedicated to enhancing user experiences, I leverage the capabilities of React.js
 
 ## ℹ️ Additional Information
 
-[![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:nazmulnhb007@yahoo.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mushfiqalam7)
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/NazmulNHB)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazmulbatchu/) -->
