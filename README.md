@@ -56,7 +56,6 @@ Dedicated to enhancing user experiences, I leverage the capabilities of React.js
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Acrobat Pro](https://img.shields.io/badge/Adobe%20Acrobat%20Pro-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
 
 ## 📊 Additional Stats
 
